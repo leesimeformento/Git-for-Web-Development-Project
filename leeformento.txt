@@ -16,7 +16,7 @@
             AND META INFORMATION.
     7. What is an id? 
         --IS AN ATTRIBUTE THAT SPECIFIES A UNIQUE ID FOR AN HTML ELEMENT
-    8. What elements can I add an id to
+    8. What elements can I add an id cd
         -- ANY ELEMENT CAN BE GIVEN AN ID
     9. How many times can I use the same id on a page? 
         -- YOU CAN ONLY USE AN ID ONCE 
@@ -79,6 +79,22 @@
         --GIT PUSH  
     37. Walk me through Lambda's git flow. 
         --FORK THE REPO. CLONE THE REPO. MAKE A BRANCH. PUSH BRANCH TO GITHUB. SUBMIT PULL REQUEST
+
+        Stretch Questions
+    1. What is the difference between an inline element and a block element?
+        --INLINE ELEMENTS ONLY TAKE THE SPACE THE CONTENT NEEDS. BLOCK ELEMENTS WILL TAKE THE
+            WHOLE SPACE HORIZONTALLY REGARDLESS OF THE CONTENT
+    2. What happens when an element is positioned absolutely? 
+        --ELEMENT CAN BE POSITIONED ANYWHERE IN THE WEB PAGE
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+        --CHANGE DISPLAY TO INLINE-BLOCK
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+        --BLOCK ELEMENTS(DIV, H1-H6, SECTION), INLINE ELEMENTS(SPAN, A, EM), INLINE-BLOCK(IMG)
+    5. In your own words, explain the box model. What is the fix for the box model?
+        --BOX MODEL SAYS THAT AN ELEMENT ALWAYS HAS A CONTENT, PADDING, BORDER, AND MARGIN THAT AFFECTS
+            HOW THE SIZE OF THAT ELEMENT WOULD BE. A FIX FOR THIS IS SETTING THE BOX-SIZING PROPERTY
+            TO BORDER-BOX
+
 
 
 
