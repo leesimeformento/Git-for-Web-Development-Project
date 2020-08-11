@@ -72,7 +72,7 @@
         --RM. YOU HSOULD BE CAREFUL WITH THESE BECAUSE ONCE THE FILE IS DELETED, 
             IT CANNOT BE RECOVERED.
     34. Why should I use version control? 
-        --BECAUSE THSI WILL ALLOW COLLABORATIVE WORK TO RUN SMOOTHLY
+        --BECAUSE THSI WILL ALLOW COLLABORATIVE WORK TO RUN SMOOTHLYgit 
     35. How often should I commit to github?
         --EVERY FEW MINUTES
     36. What is the command we would use to push our repo up to github?
@@ -94,6 +94,38 @@
         --BOX MODEL SAYS THAT AN ELEMENT ALWAYS HAS A CONTENT, PADDING, BORDER, AND MARGIN THAT AFFECTS
             HOW THE SIZE OF THAT ELEMENT WOULD BE. A FIX FOR THIS IS SETTING THE BOX-SIZING PROPERTY
             TO BORDER-BOX
+o	 Research and understand what a merge conflict is and how to resolve it.
+        -When Git wasn't able to resolve the commits of two developers.
+
+        1 Create a pull request.
+        2 Click the pull request with a merge conflict that you'd like to resolve.
+        3 click Resolve conflicts.
+        4 Delete the markers
+        5 Mark as resolved
+        6 Merge Pull Request  
+
+
+o Research the Git commands pull, rebase, merge. These commands will allow you to bring in changes that other developers push to the main branch.
+
+  Merge command will merge any changes that were made to the code base on a separate branch to your current branch as a new commit.
+
+  Rebase a branch in Git is a way to move the entirety of a branch to another point in the tree. The simplest example is moving a branch further up in the tree. 
+
+  Git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
+
+o	 Research the Git commands reset , revert, clean. These commands will allow you to go back and amends previous commits you have made.
+•	 Research and set up a Graphical User Interface (GUI) Git console.
+•	 Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push.
+
+
+
+
+
+
+
+
+
 
 
 LINK TO CODEPEN ASSIGNEMT : https://codepen.io/leesimeformento/pen/YzqPBwL
